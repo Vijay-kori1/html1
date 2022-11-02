@@ -1,0 +1,15 @@
+*{
+    font-size: 40px;
+}
+h1{
+    color: red;
+    background-color: aqua;
+}
+h2{
+    color: chocolate;
+    background-color: darkgreen;
+}
+p{
+    color: chartreuse;
+    background-color: blueviolet;
+}
